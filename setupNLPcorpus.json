@@ -1,0 +1,349 @@
+{
+    "name": "Corpus",
+    "locale": "en-IN",
+    "data": [
+      {
+        "intent": "agent.accounting",
+        "utterances": [
+            "define accounting","what is the definition of accounting",
+            "how would you describe the concept of accounting","can you provide an explanation of accounting",
+            "what does the term accounting mean","how do you define accounting in simple terms"
+        ],
+        "answers": [
+          "Accounting defined"
+        ]
+      },
+      {
+        "intent": "agent.financial_accounting",
+        "utterances": [
+            "state what is the end product of financial accounting","what is the end product of financial accounting",
+            "what is the final result of financial accounting","what do we get from financial accounting",
+            "what is produced by financial accounting","what is the outcome of financial accounting"
+        ],
+        "answers": [
+          "Financial_accounting"
+        ]
+      },
+      {
+        "intent": "agent.objectives_accounting",
+        "utterances": [
+            "enumerate main objectives of accounting","list main objectives of accounting",
+            "what are the goals of accounting","state the primary aims of accounting",
+            "name the key purposes of accounting","identify the main objectives of accounting",
+            "define the objectives of accounting",
+            "define the goals of accounting",
+            "explain the purposes of accounting",
+            "describe the aims of accounting",
+            "provide a definition of the objectives of accounting",
+            "outline the objectives of accounting"
+        ],
+        "answers": [
+          "objectives_accounting"
+        ]
+      },
+      {
+        "intent": "agent.accounting_information_users",
+        "utterances": [
+            "who are the users of accounting information","who uses accounting information",
+            "who benefits from accounting information","name the users of accounting information",
+            "identify the individuals or groups that rely on accounting information","who utilizes accounting information"
+        ],
+        "answers": [
+          "accounting_information_users"
+        ]
+      },
+      {
+        "intent": "agent.external_user_info",
+        "utterances": [
+            "who are the external users of information","name the individuals or groups that are external users of information",
+            "identify the external users of information","list the people or entities outside of the organization who use information",
+            "who utilizes information from outside the organization","specify the individuals or organizations that rely on information from external sources"
+        ],
+        "answers": [
+          "external_user_info"
+        ]
+      },
+      {
+        "intent": "agent.info_need_manage",
+        "utterances": [
+            "enumerate informational needs of management","list the informational needs of management",
+            "what kind of information does management need","name the types of information required by management",
+            "identify the information that management needs","specify the informational requirements of management"            
+        ],
+        "answers": [
+          "info_need_manage"
+        ]
+      },
+      {
+        "intent": "agent.revenue_example",
+        "utterances": [
+            "give any three examples of revenues","provide three examples of revenues",
+            "name three types of revenues","list three sources of revenues",
+            "identify three examples of money earned as revenues","specify three instances of revenues received"
+        ],
+        "answers": [
+          "revenue_example"
+        ]
+      },
+      {
+        "intent": "agent.diff_debtors_creditors",
+        "utterances": [
+            "distinguish between debtors and creditors","differentiate between debtors and creditors",
+            "explain the difference between debtors and creditors","describe the distinction between debtors and creditors",
+            "state the contrasting characteristics of debtors and creditors","outline the separate roles of debtors and creditors"
+        ],
+        "answers": [
+          "diff_debtors_creditors"
+        ]
+      },
+      {
+        "intent": "agent.diff_profit_gain",
+        "utterances": [
+            "distinguish between profit and gain","differentiate between profit and gain",
+            "explain the difference between profit and gain","describe the distinction between profit and gain",
+            "state the contrasting characteristics of profit and gain","outline the separate meanings of profit and gain"
+        ],
+        "answers": [
+          "diff_profit_gain"
+        ]
+      },
+      {
+        "intent": "agent.qualitative_charecteristic_acc_info",
+        "utterances": [
+            "if the accounting information is not clearly presented which of the qualitative characteristics of the accounting information is violated",
+            "which qualitative characteristic of accounting information is violated when it is not clearly presented",
+            "when accounting information is unclear, which qualitative characteristic is being violated",
+            "identify the violated qualitative characteristic of accounting information when it lacks clarity",
+            "when accounting information is not clearly presented, which qualitative characteristic is compromised",
+            "what qualitative characteristic of accounting information is undermined when it is not clearly presented"            
+        ],
+        "answers": [
+          "qualitative_charecteristic_acc_info"
+        ]
+      },
+      {
+        "intent": "agent.role_of_accounting",
+        "utterances": [
+            "the role of accounting has changed over the period of time do you agree explain",
+            "the role of accounting has changed over time explain",
+            "do you agree that the role of accounting has changed explain",
+            "explain how the role of accounting has evolved over time",
+            "has the role of accounting changed over time explain",
+            "describe the changes in the role of accounting over time"
+        ],
+        "answers": [
+          "role_of_accounting"
+        ]
+      },
+      {
+        "intent": "agent.fixed_assests",
+        "utterances": [
+            "giving examples explain fixed assets",
+            "explain fixed assets with examples",
+            "provide examples to explain fixed assets",
+            "describe fixed assets using examples",
+            "illustrate fixed assets with examples",
+            "give examples to elaborate on fixed assets"
+        ],
+        "answers": [
+          "fixed_assests"
+        ]
+      },
+      {
+        "intent": "agent.explain_revenue_example",
+        "utterances": [
+            "giving examples explain revenue",
+            "explain revenue with examples",
+            "provide examples to explain revenue",
+            "describe revenue using examples",
+            "illustrate revenue with examples",
+            "give examples to elaborate on revenue"
+        ],
+        "answers": [
+          "explain_revenue_example"
+        ]
+      },
+      {
+        "intent": "agent.explain_expenses_example",
+        "utterances": [
+            "giving examples explain expenses",
+            "explain expenses with examples",
+            "provide examples to explain expenses",
+            "describe expenses using examples",
+            "illustrate expenses with examples",
+            "give examples to elaborate on expenses"
+        ],
+        "answers": [
+          "explain_expenses_example"
+        ]
+      },
+      {
+        "intent": "agent.short_term_liability",
+        "utterances": [
+            "giving examples explain short term liability",
+            "explain short term liability with examples",
+            "provide examples to explain short term liability",
+            "describe short term liability using examples",
+            "illustrate short term liability with examples",
+            "give examples to elaborate on short term liability"
+        ],
+        "answers": [
+          "short_term_liability"
+        ]
+      },
+      {
+        "intent": "agent.explain_capital",
+        "utterances": [
+            "giving examples explain capital",
+            "explain capital with examples",
+            "provide examples to explain capital",
+            "describe capital using examples",
+            "illustrate capital with examples",
+            "give examples to elaborate on capital"
+        ],
+        "answers": [
+          "explain_capital"
+        ]
+      },
+      {
+        "intent": "agent.define_revenue",
+        "utterances": [
+            "define revenues",
+            "define revenues in simple terms",
+            "explain what revenues are",
+            "give a basic definition of revenues",
+            "describe revenues in simple language",
+            "provide a simple explanation of revenues"
+        ],
+        "answers": [
+          "define_revenue"
+        ]
+      },
+      {
+        "intent": "agent.define_expenses",
+        "utterances": [
+            "define expenses",
+            "define expenses in simple terms",
+            "explain what expenses are",
+            "give a basic definition of expenses",
+            "describe expenses in simple language",
+            "provide a simple explanation of expenses"
+        ],
+        "answers": [
+          "define_expenses"
+        ]
+      },
+      {
+        "intent": "agent.why_learn_accounting",
+        "utterances": [
+            "what is the primary reason for the business students and others to familiarize themselves with the accounting discipline",
+            "why should business students and others familiarize themselves with accounting",
+            "what is the main purpose of learning accounting for business students and others",
+            "what are the benefits of understanding accounting for business students and others",
+            "why is it important for business students and others to have knowledge of accounting",
+            "what is the significance of studying accounting for business students and others"
+        ],
+        "answers": [
+          "why_learn_accounting"
+        ]
+      },
+      {
+        "intent": "agent.systematic_accounting",
+        "utterances": [
+            "explain the factors which necessitated systematic accounting",
+            "explain why systematic accounting became necessary",
+            "what were the reasons for the need of systematic accounting",
+            "describe the factors that required systematic accounting",
+            "why was there a demand for systematic accounting",
+            "outline the factors that led to the need for systematic accounting"
+        ],
+        "answers": [
+          "systematic_accounting"
+        ]
+      },
+      {
+        "intent": "agent.external_user_info_need",
+        "utterances": [
+            "describe the informational needs of external users",
+            "describe the information requirements of external users",
+            "explain what kind of information external users need",
+            "outline the informational needs of external users",
+            "describe the data required by external users",
+            "provide a description of the information needs of external users"            
+        ],
+        "answers": [
+          "external_user_info_need"
+        ]
+      },
+      {
+        "intent": "agent.what_asset",
+        "utterances": [
+            "what do you mean by an asset",
+            "define asset in simple terms",
+            "explain what is meant by an asset",
+            "give a basic definition of asset",
+            "describe asset in simple language",
+            "provide a simple explanation of asset"
+        ],
+        "answers": [
+          "what_asset"
+        ]
+      },
+      {
+        "intent": "agent.assest_types",
+        "utterances": [
+            "what are different types of assets", 
+            "what are the various categories of assets",
+            "list different types of assets",
+            "name some examples of assets",
+            "identify the different classifications of assets",
+            "outline the various types of assets"
+        ],
+        "answers": [
+          "assest_types"
+        ]
+      },
+      {
+        "intent": "agent.gain_and_profit_diff",
+        "utterances": [
+            "explain the meaning of gain and profit distinguish between these two terms",
+            "explain the definitions of gain and profit and highlight the differences between them",
+            "define gain and profit and clarify the distinctions between the two terms",
+            "describe the meanings of gain and profit and elaborate on their contrasts",
+            "provide explanations for gain and profit and differentiate between these concepts",
+            "elaborate on the definitions of gain and profit and emphasize the disparities between them"
+        ],
+        "answers": [
+          "gain_and_profit_diff"
+        ]
+      },
+      {
+        "intent": "agent.qualitative_characteristics_acc",
+        "utterances": [
+            "explain the qualitative characteristics of accounting information",
+            "explain the qualities of accounting information",
+            "describe the characteristics of accounting information",
+            "outline the attributes of accounting information",
+            "define the qualitative features of accounting information",
+            "elaborate on the qualitative traits of accounting information"
+        ],
+        "answers": [
+          "qualitative_characteristics_acc"
+        ]
+      },
+      {
+        "intent": "agent.role_of_accounting_modern_world",
+        "utterances": [
+            "describe the role of accounting in the modern world",
+            "describe the importance of accounting in the modern world",
+            "explain the significance of accounting in todays society",
+            "outline the role of accounting in the contemporary world",
+            "elaborate on how accounting functions in the modern era",
+            "define the impact of accounting in the present day world"
+        ],
+        "answers": [
+          "role_of_accounting_modern_world"
+        ]
+      }
+    ]
+  }
